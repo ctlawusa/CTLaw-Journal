@@ -1,0 +1,21 @@
+{
+  "minimal-style@@metadata-heading-off": false,
+  "minimal-style@@metadata-add-property-off": false,
+  "minimal-style@@metadata-icons-off": false,
+  "minimal-style@@sidebar-tabs-names": "tab-names-off",
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@tabs-style": "tabs-plain-square",
+  "minimal-style@@minimal-unstyled-tags": false,
+  "minimal-style@@ui1@@light": "#64869594",
+  "minimal-style@@ui2@@light": "#62CFFF61",
+  "minimal-style@@ui3@@light": "#368FCC94",
+  "minimal-style@@bg3@@light": "#9AD4EE94",
+  "minimal-style@@color-yellow@@light": "#9AD4EE",
+  "minimal-style@@color-green@@light": "#5D81AC",
+  "minimal-style@@color-red@@light": "#1C98B8",
+  "minimal-style@@color-orange@@light": "#93C6D3",
+  "minimal-style@@color-pink@@light": "#24CAFF",
+  "minimal-style@@color-purple@@light": "#71AAD8",
+  "minimal-cards-style@@cards-padding": "4em",
+  "minimal-style@@metadata-dividers": true
+}

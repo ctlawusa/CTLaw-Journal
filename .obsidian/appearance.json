@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "ctstyle"
+  ],
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Liberation Sans",
+  "textFontFamily": "Liberation Sans",
+  "showViewHeader": true
+}

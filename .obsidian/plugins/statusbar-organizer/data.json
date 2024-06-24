@@ -1,0 +1,60 @@
+{
+  "activePreset": "Default",
+  "presets": {
+    "Default": {
+      "cmdr-cmdr-adder;1": {
+        "position": 0,
+        "visible": true,
+        "exists": true
+      },
+      "cmdr-clickable-icon;1": {
+        "position": 1,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-properties;1": {
+        "position": 6,
+        "visible": false,
+        "exists": true
+      },
+      "plugin-editor-status;1": {
+        "position": 2,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-word-count;1": {
+        "position": 7,
+        "visible": false,
+        "exists": false
+      },
+      "plugin-obsidian-day-planner;1": {
+        "position": 3,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-editing-toolbar-cMenuToolbar-statusbar-button;1": {
+        "position": 9,
+        "visible": false,
+        "exists": true
+      },
+      "plugin-better-word-count;1": {
+        "position": 4,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-obsidian-plugin-update-tracker;1": {
+        "position": 5,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-hide-folders;1": {
+        "position": 8,
+        "visible": false,
+        "exists": true
+      }
+    }
+  },
+  "presetsOrder": [
+    "Default"
+  ]
+}

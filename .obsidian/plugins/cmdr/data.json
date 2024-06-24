@@ -1,0 +1,64 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-day-planner:show-weekly-view",
+      "icon": "alarm-check",
+      "name": "Day Planner: Show the Week Planner",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "file-explorer:move-file",
+      "icon": "lucide-folder-tree",
+      "name": "Move current file to another folder",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "Daily notes: Open today's daily note",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-day-planner:show-day-planner-timeline",
+      "icon": "alarm-clock",
+      "name": "Day Planner: Show the Day Planner Timeline",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Create new canvas",
+      "Timeline",
+      "Advanced Tables Toolbar",
+      "Insert template",
+      "Show hidden folders",
+      "Open today's daily note",
+      "Open command palette"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

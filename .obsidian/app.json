@@ -1,0 +1,11 @@
+{
+  "defaultViewMode": "source",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "/[pP][lL][aA][nN][nN][eE][rR]/",
+    "/[tT][eE][mM][pP][lL][aA][tT][eE][sS]/"
+  ]
+}

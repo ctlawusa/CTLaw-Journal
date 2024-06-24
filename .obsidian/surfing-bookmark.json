@@ -1,0 +1,24 @@
+{
+  "bookmarks": [
+    {
+      "id": "-371400527",
+      "name": "Handbook",
+      "url": "https://dg-tifs-projects-68c738f2.vercel.app/",
+      "description": "",
+      "category": [
+        ""
+      ],
+      "tags": "",
+      "created": 1717709280000,
+      "modified": 1717709280000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

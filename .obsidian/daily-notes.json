@@ -1,0 +1,6 @@
+{
+  "format": "MM-DD-Y",
+  "folder": "Planner/Daily",
+  "template": "Templates/{{date}}",
+  "autorun": false
+}

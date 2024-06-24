@@ -1,0 +1,68 @@
+<style>
+/* Common Styles */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 3000px; /* Adjust max-width as needed */
+}
+
+.table td {
+    border: 0px; /* Set all borders to 0px */
+    padding: 8px; /* Adjust padding as needed */
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.border-between {
+    border-top: 1px solid black; /* Set border between rows */
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* Adjust specific borders */
+.table .via-email {
+    border-right: 0px solid black; /* Border between "via email" and "email@gmail.com" */
+}
+
+.table .top-border {
+    border-top: 1px solid black; /* Top border of the 6th row of the 3rd table */
+}
+
+.table .indent {
+    padding-left: 25px; /* Adjust indentation as needed */
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+p {
+    margin-bottom: 0; /* Remove margin after paragraphs */
+}
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
